@@ -1,0 +1,2 @@
+C:\Users\hetpa\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.AssemblyReference.cache
+C:\Users\hetpa\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache

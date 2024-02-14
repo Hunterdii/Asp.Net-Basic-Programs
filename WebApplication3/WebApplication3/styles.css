@@ -1,0 +1,119 @@
+﻿.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.tabs ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.tabs li {
+    display: inline-block;
+}
+
+.tab-button {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #f2f2f2;
+    color: #333;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom: none;
+}
+
+    .tab-button:hover {
+        background-color: #e0e0e0;
+    }
+
+    .tab-button:active {
+        background-color: #ccc;
+    }
+
+.tab-content {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.pizza-options {
+    margin-bottom: 20px;
+}
+
+.offers {
+    margin-bottom: 20px;
+}
+
+.cart-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+    .cart-item:last-child {
+        border-bottom: none;
+    }
+
+.item-name {
+    font-weight: bold;
+}
+
+.item-description {
+    display: block;
+    font-style: italic;
+    color: #666;
+}
+
+.item-price {
+    display: block;
+    font-weight: bold;
+}
+
+.btn {
+    display: block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #4caf50;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-remove {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: #f44336;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-place-order {
+    display: block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #2196f3;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.total-cost {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.total-price {
+    font-weight: bold;
+}
